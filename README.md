@@ -1,8 +1,6 @@
 UPDATED TO V6.6 (NEW AUTO DETECTION FEATURE AND NEW UI!)
 
 Please contact me if there are any issues reported or any suggestions!
-Discord: itzyoboishobbii
-Telegram: itzmeshobbi
+Discord: discord.gg/Hyt7Ujk
 
-
-!IF SCRIPT DOESNT OPEN TRY RUNNING AS ADMINISTRATOR!
+We recommend leaving some feedback which we would really appreciate!
